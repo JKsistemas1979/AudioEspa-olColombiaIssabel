@@ -1,7 +1,7 @@
 # AudioEspanolColombiaIssabel
 Solo es para cambiar el audio de Issabel a Español con un acento natural Colombia
 
-Recordemso que los audios reposane n una carpeta llamada "en" que esta en :
+Recordemos que los audios reposan en una carpeta llamada "en" que esta en :
 
 /var/lib/asterisk/sounds/
 
