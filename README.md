@@ -1,4 +1,4 @@
-# AudioEspanolColombiaIssabel
+# Audio/Español/idioma/Colombia/Issabel
 Solo es para cambiar el audio de Issabel a Español con un acento natural Colombia
 
 Recordemos que los audios reposan en una carpeta llamada "en" que esta en :
